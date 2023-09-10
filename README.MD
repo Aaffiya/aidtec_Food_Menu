@@ -16,3 +16,5 @@ We have chosen to use real-life food images instead of vector illustrations for 
 
 ### Food Selection
 We have carefully selected eight mouthwatering dishes to showcase on the menu. Each dish is accompanied by a brief description and its price to provide customers with essential information.
+
+![foodmenu](https://github.com/Aaffiya/aidtec_Logo-Banner_Design/assets/144488901/a47c3343-d277-4960-be0c-bb424a17e049)
